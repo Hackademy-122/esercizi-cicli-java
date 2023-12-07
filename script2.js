@@ -1,4 +1,4 @@
-let t = Math.floor(Math.random() * (50 - -30 + 1)) -10;
+let t = Math.floor(Math.random() * (40 - -30 + 1)) -10;
 
 
 if (t < 20) {
